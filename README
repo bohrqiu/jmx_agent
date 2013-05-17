@@ -1,1 +1,3 @@
 通过Java Agent实现在java业务代码运行之前，启动jmx server，并且设置jxm服务注册查询端口和服务端口为同一端口
+
+使用地址见：http://bohrqiu.github.io/ssh_tunneling_and_JMX_for_remote_monitor_java.html
